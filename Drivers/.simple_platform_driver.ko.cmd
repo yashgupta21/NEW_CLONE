@@ -1,0 +1,1 @@
+cmd_/home/einfochips/learning_git/clone/Drivers/simple_platform_driver.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/einfochips/learning_git/clone/Drivers/simple_platform_driver.ko /home/einfochips/learning_git/clone/Drivers/simple_platform_driver.o /home/einfochips/learning_git/clone/Drivers/simple_platform_driver.mod.o;  true
