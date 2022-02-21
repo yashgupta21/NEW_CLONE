@@ -1,0 +1,1 @@
+cmd_/home/einfochips/learning_git/clone/Drivers/simple_platform_driver.mod := { echo  /home/einfochips/learning_git/clone/Drivers/simple_platform_driver.o;  echo; } > /home/einfochips/learning_git/clone/Drivers/simple_platform_driver.mod
